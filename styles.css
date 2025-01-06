@@ -1,3 +1,4 @@
+
 #hero{
     height: 800px;
     background-image: url("images/places/ocean.jpg");
@@ -46,4 +47,18 @@
 
 #hero-content a:hover{
     background-color: rgb(255, 238, 0);
+}
+
+#destinations{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+
+
+.destination img{
+    height: 200px;
+    width: 100%;
 }
