@@ -57,6 +57,10 @@
     justify-content: center;
 }
 
+#highlights{
+    padding: 24px;
+}
+
 #highlights h2{
     text-transform: uppercase;
     text-align: center;
